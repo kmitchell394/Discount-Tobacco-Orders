@@ -1,0 +1,18 @@
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\Discount Tobacco Center Orders.exe.config
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\Discount Tobacco Center Orders.exe
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\Discount Tobacco Center Orders.pdb
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\ModernCR.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\CrystalDecisions.Shared.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\stdole.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\ModernCR.pdb
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\ModernCR.dll.config
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\obj\Debug\Discount Tobacco Center Orders.csprojResolveAssemblyReference.cache
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\obj\Debug\Discount Tobacco Center Orders.exe
+c:\users\kmitchell\documents\visual studio 2017\Projects\Discount Tobacco Center Orders\Discount Tobacco Center Orders\obj\Debug\Discount Tobacco Center Orders.pdb
+K:\Discount Tobacco Center\Discount Tobacco Center Orders.exe.config
+K:\Discount Tobacco Center\Discount Tobacco Center Orders.exe
+K:\Discount Tobacco Center\Discount Tobacco Center Orders.pdb
